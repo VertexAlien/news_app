@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043531159081",
+    "project_id": "videogiochi-newshots",
+    "storage_bucket": "videogiochi-newshots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043531159081:android:bc7891e9624c460149ae38",
+        "android_client_info": {
+          "package_name": "com.newshots.videogiochi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043531159081-kmr7ld41f28d656oj9r5nbu7dh0j6i64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpbwIYUEvWPawmzEn-nKmcPuT1EVZgvYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043531159081-kmr7ld41f28d656oj9r5nbu7dh0j6i64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
